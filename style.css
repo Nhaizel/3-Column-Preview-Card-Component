@@ -76,7 +76,7 @@
      flex-direction: column;
     }
 
-    @media( min-width: 375px) and (max-width:1440px){
+    @media( min-width: 380px) and (max-width:1440px){
       .container{
         display: flex;
         flex-direction: column;
